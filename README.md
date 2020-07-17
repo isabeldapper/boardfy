@@ -100,10 +100,11 @@ Agora, se você finalizou sua tarefa, parabéns!
 Vamos mandá-la para code review.
 
 <ol>
-  <li><code>git push origin homolog</code> (aqui alguem vai corrigir seu codigo)</li>
+  <li><code>git push origin homolog</code> (aqui, alguem vai corrigir seu codigo)</li>
   <li>vá ao GitHub e faça uma solicitação de Merge Request; </li>
   <li>avise o time que você fez a solicitação;</li>
-  <li>veja se há outra tarefa disponível no Azure e comece tudo de novo =)</li>
+  <li>veja se há outra tarefa disponível no Azure;</li>
+  <li>comece tudo de novo =)</li>
 </ol>
 
 ### Obrigada!
