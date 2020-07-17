@@ -81,7 +81,7 @@ Mas é super importante que você registre suas atividades, então vamos ver com
   </li>
 </ol>
 
-Algumas ações são mais comuns e definem boa parte das ações executadas no projeto. São elas:
+As principais ações são:
 
 <ul>
   <li>create - adicionar novas funcionalidades ao projeto; </li>
@@ -91,13 +91,13 @@ Algumas ações são mais comuns e definem boa parte das ações executadas no p
   <li>edit - alterações simples durante o desenvolvimento. </li>
 </ul>
 
-Tem outro ponto a ser observado... sabia que imprevistos acontecem? <br>
+Mas você sabia que imprevistos acontecem? <br>
 Que tal mandar seu código para o repositorio online e garantir que ele esteja a salvo? Vamos lá!
-Depois de fazer seus commits, execute esse passo:
+Depois de fazer seus commits, basta executar esse passo:
 
 <code>git push origin BOARD-(nº da issue) nome da issue</code>
 
-Se você finalizou sua tarefa, parabéns!
+Agora, se você finalizou sua tarefa, parabéns!
 Vamos mandá-la para code review.
 
 <ol>
