@@ -70,14 +70,15 @@ Quer ajudar? vamos ver o que fazer:
 
 Mas é super importante que você registre suas atividades, então vamos ver como:
 <ol>
-<li>vá ao board do time, no Azure e marque sua issue como "Doing";
-<li>faça suas contribuições, seguindo os padrões acima;</li>
-<li>crie commits para suas alterações:
-<ul>
-    <li><code>git add .</code></li>
-    <li><code>git commit -m “BOARD-(nº da issue) + ação + descrição”</code></li>
-    <li>Exemplo: "BOARD-1 create react app"</li>
-</ul>
+  <li>vá ao board do time, no Azure e marque sua issue como "Doing";
+  <li>faça suas contribuições, seguindo os padrões acima;</li>
+  <li>crie commits para suas alterações:
+    <ul>
+        <li><code>git add .</code></li>
+        <li><code>git commit -m “BOARD-(nº da issue) + ação + descrição”</code></li>
+        <li>Exemplo: "BOARD-1 create react app"</li>
+    </ul>
+  <li>
 <ol>
 
 Algumas ações são mais comuns e definem boa parte das ações executadas no projeto. São elas:
