@@ -70,7 +70,7 @@ Quer ajudar? vamos ver o que fazer:
 
 Mas é super importante que você registre suas atividades, então vamos ver como:
 <ol>
-  <li>vá ao board do time, no Azure e marque sua issue como "Doing";
+  <li>vá ao board do time, no Azure e marque sua issue como "Doing";</li>
   <li>faça suas contribuições, seguindo os padrões acima;</li>
   <li>crie commits para suas alterações:
     <ul>
@@ -89,7 +89,7 @@ Algumas ações são mais comuns e definem boa parte das ações executadas no p
   <li>fix - consertar bugs ou fazer alterações de estilo; </li>
   <li>merge - unir branchs; </li>
   <li>edit - alterações simples durante o desenvolvimento. </li>
-<ul>
+</ul>
 
 Tem outro ponto a ser observado... sabia que imprevistos acontecem? <br>
 Que tal mandar seu código para o repositorio online e garantir que ele esteja a salvo? Vamos lá!
@@ -101,10 +101,10 @@ Se você finalizou sua tarefa, parabéns!
 Vamos mandá-la para code review.
 
 <ol>
-<li><code>git push origin homolog</code> (aqui alguem vai corrigir seu codigo)</li>
-<li>vá ao GitHub e faça uma solicitação de Merge Request; </li>
-<li>avise o time que você fez a solicitação;</li>
-<li>veja se há outra tarefa disponível no Azure e comece tudo de novo =)</li>
-<ol>
+  <li><code>git push origin homolog</code> (aqui alguem vai corrigir seu codigo)</li>
+  <li>vá ao GitHub e faça uma solicitação de Merge Request; </li>
+  <li>avise o time que você fez a solicitação;</li>
+  <li>veja se há outra tarefa disponível no Azure e comece tudo de novo =)</li>
+</ol>
 
 ### Obrigada!
