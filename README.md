@@ -79,7 +79,7 @@ Mas é super importante que você registre suas atividades, então vamos ver com
         <li>Exemplo: "BOARD-1 create react app"</li>
     </ul>
   </li>
-<ol>
+</ol>
 
 Algumas ações são mais comuns e definem boa parte das ações executadas no projeto. São elas:
 
