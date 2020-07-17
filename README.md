@@ -58,12 +58,14 @@ function SegundoExemplo() {
 </ul>
 
 
-##Contribuição e Compartilhamento
+
+## Contribuição e Compartilhamento
 
 Quer ajudar? vamos ver o que fazer:
 <ol>
   <li>rode o comando <code>git clone</code> + o link deste projeto (botão verde no topo da página);</li>
   <li>crie uma nova branch <code>git checkout -b BOARD-(nº da issue) nome da issue</code>;</li>
+  <ul><li>Exemplo: "BOARD-1 create react app"</li></ul>
 </ol>
 
 Mas é super importante que você registre suas atividades, então vamos ver como:
@@ -74,7 +76,7 @@ Mas é super importante que você registre suas atividades, então vamos ver com
 <ul>
     <li><code>git add .</code></li>
     <li><code>git commit -m “BOARD-(nº da issue) + ação + descrição”</code></li>
-    <li>Exemplo: "BOARD-1 create react app"
+    <li>Exemplo: "BOARD-1 create react app"</li>
 </ul>
 <ol>
 
