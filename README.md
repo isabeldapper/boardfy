@@ -1,6 +1,6 @@
 # Bem-vindo ao Boardfy!
 
-Seguem, aqui, alguns padrões adotados para este projeto.
+Seguem, aqui, alguns padrões adotados para este projeto.<br>
 Novos padrões podem ser adicionados, caso haja necessidade.
 
 
@@ -17,23 +17,30 @@ Novos padrões podem ser adicionados, caso haja necessidade.
 <ul>
   <li>
     nomes em camelCase.
-    ```
-    const primeiroExemplo = {};
-    ```
+
+```
+const primeiroExemplo = {};
+```
   </li>
 </ul>
 
 
 ### Funções:
 <ul>
-  <li>nomes em PascalCase</li>
+  <li>nomes em PascalCase.</li>
+
+```
+function SegundoExemplo() {
+  console.log('oi');
+};
+```
 </ul>
 
 
 ### Componentes:
 <ul>
-  <li>nomes em PascalCase</li>
-  <li>uma pasta para cada componente (componente, style, etc)</li>
+  <li>nomes em PascalCase;</li>
+  <li>uma pasta para cada componente (componente, style, etc).</li>
 </ul>
 
 
@@ -45,10 +52,16 @@ Novos padrões podem ser adicionados, caso haja necessidade.
 
 ### Imports:
 <ul>
-  <li>primeiro os externos</li>
-  <li>segundo os internos</li>
-  <li>por último o arquivo style</li>
+  <li>primeiro os externos (ex: materialUI);</li>
+  <li>segundo os internos (componentes);</li>
+  <li>por último o arquivo style;</li>
 </ul>
+
+
+##Contribuição e Compartilhamento
+
+<ol>
+<li>Em seu terminal, rode o comando <code>const primeiroExemplo = {};</code>
 
 
 Commit:
