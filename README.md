@@ -68,10 +68,10 @@ Quer ajudar? vamos ver o que fazer:
   <ul><li>Exemplo: "BOARD-1 create react app"</li></ul>
 </ol>
 
-Mas é super importante que você registre suas atividades, então vamos ver como:
+Para que o time se entenda, as suas atividades precisam ser registradas. Então:
 <ol>
-  <li>vá ao board do time, no Azure e marque sua issue como "Doing";</li>
-  <li>faça suas contribuições, seguindo os padrões acima;</li>
+  <li>vá ao board de atividades, no Azure e marque sua issue como "Doing";</li>
+  <li>na sua branch, faça as contribuições que desejar;</li>
   <li>crie commits para suas alterações:
     <ul>
         <li><code>git add .</code></li>
@@ -81,7 +81,7 @@ Mas é super importante que você registre suas atividades, então vamos ver com
   </li>
 </ol>
 
-As principais ações são:
+Dica: As principais ações são:
 
 <ul>
   <li>create - adicionar novas funcionalidades ao projeto; </li>
@@ -91,9 +91,8 @@ As principais ações são:
   <li>edit - alterações simples durante o desenvolvimento. </li>
 </ul>
 
-Mas você sabia que imprevistos acontecem? <br>
-Que tal mandar seu código para o repositorio online e garantir que ele esteja a salvo? Vamos lá!
-Depois de fazer seus commits, basta executar esse passo:
+Depois de tanto trabalho, que tal mandar seu código para o repositorio online e garantir que ele esteja a salvo?<br>
+Vamos lá! Basta executar esse passo:
 
 <code>git push origin BOARD-(nº da issue) nome da issue</code>
 
