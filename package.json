@@ -22,7 +22,8 @@
     "lint": "eslint --fix src --ext .js"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "react-app",
+    "linebreak-style": ["error", "windows"]
   },
   "browserslist": {
     "production": [
