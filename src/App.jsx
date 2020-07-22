@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import GlobalStyle from './config/style/GlobalStyle';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <div>
@@ -31,4 +31,3 @@ function App() {
   );
 }
 
-export default App;
