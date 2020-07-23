@@ -7,7 +7,7 @@ export default createGlobalStyle`
     outline: 0;
     box-sizing: border-box
   }
-
+  
   body, input, button {
     font: 14px Roboto, sans-serif;
   }
