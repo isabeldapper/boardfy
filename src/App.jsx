@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import GlobalStyle from './config/style/GlobalStyle';
-import BottomNavBar from './components/BottomNavBar/index';
+import BottomNavBar from './tools/BottomNavBar/index';
 
 export default function App() {
   return (
