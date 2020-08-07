@@ -75,8 +75,8 @@ Para que o time se entenda, as suas atividades precisam ser registradas. Então:
   <li>crie commits para suas alterações:
     <ul>
         <li><code>git add .</code></li>
-        <li><code>git commit -m “BOARD-(nº da issue) + ação + descrição”</code></li>
-        <li>Exemplo: "BOARD-1 create react app"</li>
+        <li><code>git commit -m “nº da issue + ação + descrição”</code></li>
+        <li>Exemplo: "1 create react app"</li>
     </ul>
   </li>
 </ol>
@@ -94,7 +94,7 @@ Dica: As principais ações são:
 Depois de tanto trabalho, que tal mandar seu código para o repositorio online e garantir que ele esteja a salvo?<br>
 Vamos lá! Basta executar esse passo:
 
-<code>git push origin BOARD-(nº da issue) nome da issue</code>
+<code>git push origin nº da issue + nome da issue</code>
 
 Agora, se você finalizou sua tarefa, parabéns!
 Vamos mandá-la para code review.
