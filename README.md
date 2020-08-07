@@ -64,8 +64,8 @@ function SegundoExemplo() {
 Quer ajudar? vamos ver o que fazer:
 <ol>
   <li>rode o comando <code>git clone</code> + o link deste projeto (botão verde no topo da página);</li>
-  <li>crie uma nova branch <code>git checkout -b BOARD-(nº da issue) nome da issue</code>;</li>
-  <ul><li>Exemplo: "BOARD-1 create react app"</li></ul>
+  <li>crie uma nova branch <code>git checkout -b nº da issue + nome da issue</code>;</li>
+  <ul><li>Exemplo: "1 create react app"</li></ul>
 </ol>
 
 Para que o time se entenda, as suas atividades precisam ser registradas. Então:
